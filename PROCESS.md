@@ -2,4 +2,3 @@ First, if I'm completely new in a field, like gaming. I will use AI, like gemini
 
 Second, AI is a good assistant in nowadays coding, especially Vibe coding. During my bachelor degree and internship experience, I tried using Cursor, which really faster the efficiency while a programmer only need to check which functions is added or which part is motified. If there are no problems, they just commit it and push it. Even though at last they found some problem, they can still go back to the previous step. 
 
-Third, 
